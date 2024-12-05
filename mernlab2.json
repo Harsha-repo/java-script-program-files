@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "somu",
+        "payment" : {
+            "total":600
+        },
+        "Transaction":{
+            "price" : 400
+        }
+    },
+
+    {
+        "name":"john",
+        "payment" : {
+            "total":500
+        },
+        "transaction":{
+            "price":230
+        }
+    },
+
+    {
+        "name":"hari",
+        "payment":{
+            "total":300
+        },
+
+        "transaction":{
+            "price":230
+        }
+    }
+]

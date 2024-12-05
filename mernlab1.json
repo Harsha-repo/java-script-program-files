@@ -1,0 +1,48 @@
+
+
+{
+    "customer1 " : {
+    "details":{
+        "name":"anand",
+        "phone": 24252,
+        "payment":352
+
+        },
+    "transaction":{
+        "item1":{
+        "price":180,
+        "item" : 3,
+        "total":480
+    },
+     "item2":{
+        "price":180,
+        "item" : 3,
+        "total":480
+    }
+       }
+
+    
+    },
+
+    "customer2 " : {
+    "details":{
+        "name":"hari",
+        "phone": 24252,
+        "payment":352
+
+        },
+    "transaction":{
+        "item1":{
+        "price":180,
+        "item" : 3,
+        "total":480
+    },
+     "item2":{
+        "price":180,
+        "item" : 3,
+        "total":480
+    }
+       }
+    }
+
+}
